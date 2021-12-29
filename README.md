@@ -1,0 +1,1 @@
+# aripi-widget-mac-os
